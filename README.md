@@ -1,2 +1,2 @@
 # coursera-test
-couresera test repo
+courssera test repo
